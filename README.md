@@ -5,4 +5,4 @@ HTML/CSS implementation of a USDA nutrition facts label, demonstrating typograph
 
 ## Demo
 
-**[View Live Project](https://augus-dev.github.io/nutrition-label/)**
+**[View Live Project](https://augus-dev.github.io/css-nutrition-label/)**
